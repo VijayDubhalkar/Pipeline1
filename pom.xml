@@ -44,8 +44,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>target</groupId>
+      <artifactId>target</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
